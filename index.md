@@ -13,9 +13,7 @@ Gang Hu is a master student in School of Computer Science and Engineering, Unive
 
 He joined the <a href="www.bmc.uestc.edu.cn">Big Media Computing Centre</a> in June 2014 supervised by Prof <a href="http://bmc.uestc.edu.cn/~shaojie/">Jie Shao</a>. Before that, he joined the <a href="www.wsc.uestc.edu.cn/">Web Sciences Center</a> in June 2013 supervised by Prof <a href="http://www.ccse.uestc.edu.cn:8080/teacher/view.html?id=159">Hu Xia</a>. His research focuses on spatial query processing, social media mining and multimedia databases. He has published 7 papers in MM, SIGIR, TKDE, ICDE, etc.
 
-## Main Projects
-
-## Highlighted work 
+## Highlighted Work 
 <ul>
 <li>Map-matching</li>With the advance of various location-acquisition technologies, a myriad of GPS trajectories can be collected every day. However, the raw coordinate data captured by sensors often cannot reflect real positions due to many physical constraints and some rules of law. How to accurately match GPS trajectories to roads on a digital map is an important issue. The problem of map-matching is fundamental for many applications. Unfortunately, many existing methods still cannot meet stringent performance requirements in   engineering. In particular, low/unstable sampling rate and noisy/lost data are usually big challenges. Information fusion of different data sources is becoming increasingly promising nowadays. As in practice, some other measurements such as speed and moving direction are collected together with the spatial locations acquired, we can make use of not only location coordinates but all data collected. We proposed a novel model using the related meta-information to describe a moving object, and present an algorithm called IF-Matching for map-matching. It can handle many ambiguous cases which cannot be correctly matched by existing methods. We ran our algorithm with taxi trajectory data on a city-wide road network. Compared with two state-of-the-art algorithms of ST-Matching and the winner of GIS Cup 2012, our approach achieves more accurate results.
 <li>High-dimensional index</li>
@@ -35,7 +33,7 @@ Locality sensitive hashing (LSH) and its variants are widely used for approximat
 ## Main Projects
 <ul>
 <li>Big Media Content Analysis and Retrieval in Mobile Interactive Environment, Key Project funded by National Nature Science Foundation of China (No. 61632007), 2017-2021. Main Researcher.</li>
-In this project, I 
+In this project, I...
 <li>Research on Travel Trajectory Semantic Enhancement, Mining and Recommendation in Social Media, General Project funded by National Nature Science Foundation of China (No. 61672133), 2017-2020. Principal Investigator.</li>
 In this work, I.....
 </ul>
