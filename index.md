@@ -1,38 +1,30 @@
 ## Gang Hu
-Master
+Master<br>
+<a href="www.bmc.uestc.edu.cn">Big Media Computing Centre</a><br>
+School of Computer Science and Engineering<br>
+University of Electronic Science and Technology of China 
 
-You can use the [editor on GitHub](https://github.com/HunterHd/GangHu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Contact
+Address: Main Building B1-204, No. 2006 Xiyuan Ave., West High-tech Zone, Chengdu, 611731, China<br>
+Email: hugang@d.uestc.edu.cn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## General Information 
+Gang Hu is a master student in School of Computer Science and Engineering, University of Electronic Science and Technology of China, supervised by Prof <a href="http://bmc.uestc.edu.cn/~shaojie/">Jie Shao</a>. He received a bachelor degree from University of Electronic Science and Technology of China in 2016.<br>
 
-### Markdown
+He joined the <a href="www.bmc.uestc.edu.cn">Big Media Computing Centre</a> in June 2014 supervised by Prof <a href="http://bmc.uestc.edu.cn/~shaojie/">Jie Shao</a>. Before that, he joined the <a href="www.wsc.uestc.edu.cn/">Web Sciences Center</a> in June 2013 supervised by Prof <a href="http://www.ccse.uestc.edu.cn:8080/teacher/view.html?id=159">Hu Xia</a>. His research focuses on spatial query processing, social media mining and multimedia databases. I have published 7 papers in MM, SIGIR, TKDE, ICDE, etc.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Recent publications 
+<ul>
+<li>Gang Hu, Jie Shao, Fumin Shen, Zi Huang, and Heng Tao Shen, <a href="">Unifying Multi-Source Social Media Data for Personalized Travel Route Planning</a>, <i>In Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)</i>, August 7-11, 2017, Tokyo, Japan.</li>
+<li>Gang Hu, Jie Shao, Dongxiang Zhang, Yang Yang, and Heng Tao Shen, <a href="">Preserving-Ignoring Transformation based Index for Approximate k Nearest Neighbor Search</a>, <i>In Proceedings of the 33rd IEEE International Conference on Data Engineering (ICDE)</i>, April 19-22, 2017, San Diego, CA, USA.</li>
+<li>Gang Hu, Jie Shao, Dongxiang Zhang, Yang Yang, and Heng Tao Shen, <a href="">IF-Matching: Towards Accurate Map-Matching with Information Fusion (Extended Abstract)</a>, <i>In Proceedings of the 33rd IEEE International Conference on Data Engineering (ICDE)</i>, April 19-22, 2017, San Diego, CA, USA.</li>
+<li>Gang Hu, Jie Shao, Fenglin Liu, Yuan Wang, and Heng Tao Shen, <a href="http://dx.doi.org/10.1109/TKDE.2016.2617326">IF-Matching: Towards Accurate Map-Matching with Information Fusion</a>, <i>IEEE Transactions on Knowledge and Data Engineering (TKDE)</i>, 29(1): 114-127, 2017.</li>
+<li>Bo Wang, Jie Shao, Chengkun He, and Gang Hu, <a href="http://dx.doi.org/10.1007/978-3-319-51814-5_30">Spatial Verification via Compact Words for Mobile Instance Search</a>, <i>In Proceedings of the 23rd International Conference on Multimedia Modelling (MMM)</i>, pages 356-367, January 4-6, 2017, Reykjavik, Iceland.</li>
+<li>Jie Chen, Chengkun He, Gang Hu, and Jie Shao, <a href="http://dx.doi.org/10.1007/978-3-319-27674-8_10">SELSH: A Hashing Scheme for Approximate Similarity Search with Early Stop Condition<a>, <i>In Proceedings of the 22nd International Conference on Multimedia Modelling (MMM)</i>, pages 104-115, January 4-6, 2016, Miami, FL, USA.</li>
+<li>Gang Hu, Jie Shao, Lianli Gao, and Yang Yang, <a href="http://doi.acm.org/10.1145/2733373.2806344">Exploring Viewable Angle Information in Georeferenced Video Search,</a>, <i>In Proceedings of the 23rd ACM International Conference on Multimedia (ACM MM)</i>, pages 839-842, October 26-30, 2015, Brisbane, Australia.</li>
+</ul>
 
-```markdown
-Syntax highlighted code block
+## Main Projects 
+Research on Travel Trajectory Semantic Enhancement, Mining and Recommendation in Social Media, General Project funded by National Nature Science Foundation of China (No. 61672133), 2017-2020. Principal Investigator. 
+Big Media Content Analysis and Retrieval in Mobile Interactive Environment, Key Project funded by National Nature Science Foundation of China (No. 61632007), 2017-2021. Main Researcher. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HunterHd/GangHu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
