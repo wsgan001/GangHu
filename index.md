@@ -24,7 +24,7 @@ He joined the <a href="www.bmc.uestc.edu.cn">Big Media Computing Centre</a> in J
 <ul>
 <li>First Class Academic Scholarship, University of Electronic Science and Technology of China, China, 2016.09</li>
 <li>National Postgraduate Scholarship, University of Electronic Science and Technology of China, China, 2016.09</li>
-<li>Outstanding undergraduate dissertation, University of Electronic Science and Technology of China, China, 2016.06</li>
+<li>Outstanding Undergraduate Dissertation, University of Electronic Science and Technology of China, China, 2016.06</li>
 <li>Third Class Academic Scholarship, University of Electronic Science and Technology of China, China, 2015.09</li>
 <li>Third Class Academic Scholarship, University of Electronic Science and Technology of China, China, 2014.09</li>
 <li>National Encouragement scholarship, University of Electronic Science and Technology of China, China, 2013.09</li>
