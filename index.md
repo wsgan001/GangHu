@@ -20,9 +20,9 @@ I joined the <a href="www.bmc.uestc.edu.cn">Big Media Computing Centre</a> in Ju
 <li>Travel route planning</li>Travel planning is an active problem for both research and industry, which aims to automatically mine user's attributes and recommend personalized routes. How to build interest model for users and understand their real intention brings great challenges. We proposed a travel route planning approach which mines the user interest model by multi-source social media (e.g., travelogues and check-in records), and understands the user’s real intention by active behavior (e.g., POI inputs). In order to unify heterogeneous data from dierent sources, a topical package is built as the measurement space. Based on the topical package, user topical package is modeled to nd user interest and route topical package is constructed to describe the attributes of each route. User’s active behavior can also be considered during route planning, where top ranked routes are nally recommended. The proposed multi-source topical package (MSTP) approach is evaluated on a real traveling dataset and compared with two state-of-the-art methods. The experimental result shows that MSTP performs better for providing a personalized POI visiting sequence.
 </ul>
 
-##Invited Journal Reviewer
+## Invited Journal Reviewer
 <ul>
-<li>IEEE Transactions on Knowledge and Data Engineering 
+<li>IEEE Transactions on Knowledge and Data Engineering</li>
 </ul>
 
 ## Awards
