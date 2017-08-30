@@ -11,7 +11,7 @@ Email: hugang@std.uestc.edu.cn
 ## General Information 
 I am a master student in School of Computer Science and Engineering, University of Electronic Science and Technology of China, supervised by Prof <a href="http://bmc.uestc.edu.cn/~shaojie/">Jie Shao</a>. I received a bachelor degree from University of Electronic Science and Technology of China in 2016.<br>
 
-I joined the <a href="www.bmc.uestc.edu.cn">Big Media Computing Centre</a> in June 2014 supervised by Prof <a href="http://bmc.uestc.edu.cn/~shaojie/">Jie Shao</a>. Before that, I joined the <a href="www.wsc.uestc.edu.cn/">Web Sciences Center</a> in June 2013 supervised by Prof <a href="http://www.ccse.uestc.edu.cn:8080/teacher/view.html?id=159">Hu Xia</a>. My research focuses on spatial query processing, social media mining and multimedia databases. I have published 7 papers in MM, SIGIR, TKDE, ICDE, etc.
+I joined the <a href="www.bmc.uestc.edu.cn">Big Media Computing Centre</a> in June 2014 supervised by Prof <a href="http://bmc.uestc.edu.cn/~shaojie/">Jie Shao</a>. Before that, I joined the <a href="www.wsc.uestc.edu.cn/">Web Sciences Center</a> in June 2013 supervised by Prof <a href="http://www.ccse.uestc.edu.cn:8080/teacher/view.html?id=159">Hu Xia</a>. My research focuses on spatial query processing, social media mining and multimedia databases. I have published 8 papers in MM, SIGIR, TKDE, ICDE, etc.
 
 ## Highlighted Work 
 <ul>
