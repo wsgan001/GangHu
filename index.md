@@ -24,7 +24,10 @@ I joined the <a href="www.bmc.uestc.edu.cn">Big Media Computing Centre</a> in Ju
 <ul>
 <li>IEEE Transactions on Knowledge and Data Engineering</li>
 </ul>
-
+## Program Committee Member
+<ul>
+<li>The Tenth International Conference on Creative Content Technologies CONTENT 2018</li>
+</ul>
 ## Awards
 <ul>
 <li>First Class Academic Scholarship, University of Electronic Science and Technology of China, China, 2016.09</li>
