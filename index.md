@@ -31,7 +31,7 @@ I joined the <a href="www.bmc.uestc.edu.cn">Big Media Computing Centre</a> in Ju
 ## Awards
 <ul>
 <li>First Class Academic Scholarship, University of Electronic Science and Technology of China, China, 2017.09</li>
-<li>National Postgraduate Scholarship, University of Electronic Science and Technology of China, China, 2017.09</li
+<li>National Postgraduate Scholarship, University of Electronic Science and Technology of China, China, 2017.09</li>
 <li>First Class Academic Scholarship, University of Electronic Science and Technology of China, China, 2016.09</li>
 <li>National Postgraduate Scholarship, University of Electronic Science and Technology of China, China, 2016.09</li>
 <li>Outstanding Undergraduate Dissertation, University of Electronic Science and Technology of China, China, 2016.06</li>
