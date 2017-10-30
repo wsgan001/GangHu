@@ -30,6 +30,8 @@ I joined the <a href="www.bmc.uestc.edu.cn">Big Media Computing Centre</a> in Ju
 </ul>
 ## Awards
 <ul>
+<li>First Class Academic Scholarship, University of Electronic Science and Technology of China, China, 2017.09</li>
+<li>National Postgraduate Scholarship, University of Electronic Science and Technology of China, China, 2017.09</li
 <li>First Class Academic Scholarship, University of Electronic Science and Technology of China, China, 2016.09</li>
 <li>National Postgraduate Scholarship, University of Electronic Science and Technology of China, China, 2016.09</li>
 <li>Outstanding Undergraduate Dissertation, University of Electronic Science and Technology of China, China, 2016.06</li>
@@ -50,7 +52,7 @@ the Central Universities of China under Grants (No.ZYGX2014Z007), 2015-2018. Pri
 <ul>
 <li>Gang Hu, Jie Shao, Fumin Shen, Zi Huang, and Heng Tao Shen, <a href="http://dx.doi.org/10.1145/3077136.3080672">Unifying Multi-Source Social Media Data for Personalized Travel Route Planning</a>, <i>In Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)</i>, August 7-11, 2017, Tokyo, Japan.</li>
 <li>Gang Hu, Jie Shao, Dongxiang Zhang, Yang Yang, and Heng Tao Shen, <a href="http://dx.doi.org/10.1109/ICDE.2017.47">Preserving-Ignoring Transformation based Index for Approximate k Nearest Neighbor Search</a>, <i>In Proceedings of the 33rd IEEE International Conference on Data Engineering (ICDE)</i>, April 19-22, 2017, San Diego, CA, USA.</li>
-<li>Gang Hu, Jie Shao, Dongxiang Zhang, Yang Yang, and Heng Tao Shen, <a href="http://dx.doi.org/10.1109/ICDE.2017.11">IF-Matching: Towards Accurate Map-Matching with Information Fusion (Extended Abstract)</a>, <i>In Proceedings of the 33rd IEEE International Conference on Data Engineering (ICDE)</i>, April 19-22, 2017, San Diego, CA, USA.</li>
+<li>Gang Hu, Jie Shao, Fenglin Liu, Yuan Wang, and Heng Tao Shen, <a href="http://dx.doi.org/10.1109/ICDE.2017.11">IF-Matching: Towards Accurate Map-Matching with Information Fusion (Extended Abstract)</a>, <i>In Proceedings of the 33rd IEEE International Conference on Data Engineering (ICDE)</i>, April 19-22, 2017, San Diego, CA, USA.</li>
 <li>Gang Hu, Jie Shao, Fenglin Liu, Yuan Wang, and Heng Tao Shen, <a href="http://dx.doi.org/10.1109/TKDE.2016.2617326">IF-Matching: Towards Accurate Map-Matching with Information Fusion</a>, <i>IEEE Transactions on Knowledge and Data Engineering (TKDE)</i>, 29(1): 114-127, 2017.</li>
 <li>Dongyang Zhang, Jie Shao, Gang Hu, and Lianli Gao, <a href="">Sharp and Real Image Super-Resolution Using Generative Adversarial Network</a>, <i>In Proceedings of the 24th International Conference on Neural Information Processing (ICONIP)</i>, November 14-18, 2017, Guangzhou, China.</li>
 <li>Bo Wang, Jie Shao, Chengkun He, and Gang Hu, <a href="http://dx.doi.org/10.1007/978-3-319-51814-5_30">Spatial Verification via Compact Words for Mobile Instance Search</a>, <i>In Proceedings of the 23rd International Conference on Multimedia Modelling (MMM)</i>, pages 356-367, January 4-6, 2017, Reykjavik, Iceland.</li>
