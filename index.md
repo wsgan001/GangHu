@@ -1,4 +1,4 @@
-## Gang Hu                      <p align="right"> <a href="./GangHu-CV.pdf">CV</a></p>
+## Gang Hu
 Master<br>
 <a href="www.bmc.uestc.edu.cn">Big Media Computing Centre</a><br>
 School of Computer Science and Engineering<br>
