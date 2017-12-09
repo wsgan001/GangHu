@@ -30,14 +30,16 @@ I joined the <a href="www.bmc.uestc.edu.cn">Big Media Computing Centre</a> in Ju
 </ul>
 ## Awards
 <ul>
-<li>The First Prize Scholarship, University of Electronic Science and Technology of China, China, 2017.09</li>
-<li>National Postgraduate Scholarship, University of Electronic Science and Technology of China, China, 2017.09</li>
-<li>The First Prize Scholarship, University of Electronic Science and Technology of China, China, 2016.09</li>
-<li>National Postgraduate Scholarship, University of Electronic Science and Technology of China, China, 2016.09</li>
-<li>Outstanding Undergraduate Dissertation, University of Electronic Science and Technology of China, China, 2016.06</li>
-<li>The Third Prize Scholarship, University of Electronic Science and Technology of China, China, 2015.09</li>
-<li>The Third Prize Scholarship, University of Electronic Science and Technology of China, China, 2014.09</li>
-<li>National Scholarship for Encouragement, University of Electronic Science and Technology of China, China, 2013.09</li>
+<li>The First Prize Scholarship, University of Electronic Science and Technology of China, 2017</li>
+<li>T StudentTravelGrant, SIGIR, 2017</li>
+<li>National Postgraduate Scholarship, University of Electronic Science and Technology of China, 2017</li>
+<li>The First Prize Scholarship, University of Electronic Science and Technology of China, 2016</li>
+<li>National Postgraduate Scholarship, University of Electronic Science and Technology of China, 2016</li>
+<li>Outstanding Undergraduate Dissertation, University of Electronic Science and Technology of China, 2016</li>
+<li>StudentTravelGrant, ACMMM, 2015</li>  
+<li>The Third Prize Scholarship, University of Electronic Science and Technology of China, 2015</li>
+<li>The Third Prize Scholarship, University of Electronic Science and Technology of China, 2014</li>
+<li>National Scholarship for Encouragement, University of Electronic Science and Technology of China, 2013</li>
 </ul>
 
 ## Main Projects
