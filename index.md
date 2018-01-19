@@ -27,16 +27,17 @@ I joined the <a href="www.bmc.uestc.edu.cn">Big Media Computing Centre</a> in Ju
 ## Program Committee Member
 <ul>
 <li>The Tenth International Conference on Creative Content Technologies CONTENT 2018</li>
+<li>The Eighth International Conference on Advances in Information Mining and Management IMMM 2018</li>
 </ul>
 ## Awards
 <ul>
 <li>The First Prize Scholarship, University of Electronic Science and Technology of China, 2017</li>
-<li>T StudentTravelGrant, SIGIR, 2017</li>
+<li>StudentTravelGrant, SIGIR, 2017</li>
 <li>National Postgraduate Scholarship, University of Electronic Science and Technology of China, 2017</li>
 <li>The First Prize Scholarship, University of Electronic Science and Technology of China, 2016</li>
 <li>National Postgraduate Scholarship, University of Electronic Science and Technology of China, 2016</li>
 <li>Outstanding Undergraduate Dissertation, University of Electronic Science and Technology of China, 2016</li>
-<li>StudentTravelGrant, ACMMM, 2015</li>  
+<li>StudentTravelGrant, ACM MM, 2015</li>  
 <li>The Third Prize Scholarship, University of Electronic Science and Technology of China, 2015</li>
 <li>The Third Prize Scholarship, University of Electronic Science and Technology of China, 2014</li>
 <li>National Scholarship for Encouragement, University of Electronic Science and Technology of China, 2013</li>
@@ -52,7 +53,7 @@ the Central Universities of China under Grants (No.ZYGX2014Z007), 2015-2018. Pri
 
 ## Publications 
 <ul>
-<li>Gang Hu, Jie Shao,Zhiyang Ni, and Dongxiang Zhang, <a href="http://dx.doi.org/10.1007/s11280-017-0511-8">A graph based method for constructing popular routes with check-ins</a>, <i>World Wide Web Internet and Web Information Systems (WWWJ)</i>, (), 1-15, 2017.</li>
+<li>Gang Hu, Jie Shao,Zhiyang Ni, and Dongxiang Zhang, <a href="http://dx.doi.org/10.1007/s11280-017-0511-8">A Graph bBased Method for Constructing Popular Routes with Check-ins</a>, <i>World Wide Web Internet and Web Information Systems (WWWJ)</i>, (), 1-15, 2017.</li>
 <li>Gang Hu, Jie Shao, Fumin Shen, Zi Huang, and Heng Tao Shen, <a href="http://dx.doi.org/10.1145/3077136.3080672">Unifying Multi-Source Social Media Data for Personalized Travel Route Planning</a>, <i>In Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)</i>, August 7-11, 2017, Tokyo, Japan.</li>
 <li>Gang Hu, Jie Shao, Dongxiang Zhang, Yang Yang, and Heng Tao Shen, <a href="http://dx.doi.org/10.1109/ICDE.2017.47">Preserving-Ignoring Transformation based Index for Approximate k Nearest Neighbor Search</a>, <i>In Proceedings of the 33rd IEEE International Conference on Data Engineering (ICDE)</i>, April 19-22, 2017, San Diego, CA, USA.</li>
 <li>Gang Hu, Jie Shao, Fenglin Liu, Yuan Wang, and Heng Tao Shen, <a href="http://dx.doi.org/10.1109/ICDE.2017.11">IF-Matching: Towards Accurate Map-Matching with Information Fusion (Extended Abstract)</a>, <i>In Proceedings of the 33rd IEEE International Conference on Data Engineering (ICDE)</i>, April 19-22, 2017, San Diego, CA, USA.</li>
