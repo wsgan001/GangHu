@@ -1,4 +1,4 @@
-## Gang Hu
+## Gang Hu <div align="center">This is some text! </div>
 Master<br>
 <a href="www.bmc.uestc.edu.cn">Center For Future Media</a><br>
 School of Computer Science and Engineering<br>
