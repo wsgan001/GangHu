@@ -18,11 +18,16 @@ Now, I work at Alibaba Group, and focused on person re-identification. Before, I
 ## Invited Journal Reviewer
 <ul>
 <li>IEEE Transactions on Knowledge and Data Engineering</li>
+<li>IEEE Transactions on Circuits and Systems for Video Technology <li>
+<li>Computational Intelligence</li>
+<li>Information Sciences</li>
+<li>Recent Patents on Computer Science</li>
 </ul>
 ## Program Committee Member
 <ul>
 <li>The Tenth International Conference on Creative Content Technologies CONTENT 2018</li>
 <li>The Eighth International Conference on Advances in Information Mining and Management IMMM 2018</li>
+<li>The 2nd International Conference on Computer Science and Application Engineering (CSAE 2018)</li>
 </ul>
 ## Awards
 <ul>
