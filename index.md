@@ -18,7 +18,7 @@ Now, I work at Alibaba Group, and focused on person re-identification. Before, I
 ## Invited Journal Reviewer
 <ul>
 <li>IEEE Transactions on Knowledge and Data Engineering</li>
-<li>IEEE Transactions on Circuits and Systems for Video Technology <li>
+<li>IEEE Transactions on Circuits and Systems for Video Technology</li>
 <li>Computational Intelligence</li>
 <li>Information Sciences</li>
 <li>Recent Patents on Computer Science</li>
