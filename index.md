@@ -25,8 +25,9 @@ Now, I work at Alibaba Group, and focused on person re-identification. Before, I
 </ul>
 ## Program Committee Member
 <ul>
-<li>The Tenth International Conference on Creative Content Technologies CONTENT 2018</li>
-<li>The Eighth International Conference on Advances in Information Mining and Management IMMM 2018</li>
+<li>The Eleventh International Conference on Creative Content Technologies (CONTENT 2019)</li>
+<li>The Tenth International Conference on Creative Content Technologies (CONTENT 2019)</li>
+<li>The Eighth International Conference on Advances in Information Mining and Management (IMMM 2018)</li>
 <li>The 2nd International Conference on Computer Science and Application Engineering (CSAE 2018)</li>
 </ul>
 ## Awards
@@ -53,6 +54,7 @@ the Central Universities of China under Grants (No.ZYGX2014Z007), 2015-2018. Pri
 
 ## Publications 
 <ul>
+<li>Jie Shao, Gang Hu, Jingkuan Song, Xueliang Liu, and Heng Tao Shen, <a href="https://doi.org/10.1109/TCSVT.2018.2848200">Towards Accurate Georeferenced Video Search with Camera Field of View Modeling</a>, <i>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</i>, 2018.</li>
 <li>Gang Hu, Jie Shao,Zhiyang Ni, and Dongxiang Zhang, <a href="http://dx.doi.org/10.1007/s11280-017-0511-8">A Graph bBased Method for Constructing Popular Routes with Check-ins</a>, <i>World Wide Web Internet and Web Information Systems (WWWJ)</i>, (), 1-15, 2017.</li>
 <li>Gang Hu, Jie Shao, Fumin Shen, Zi Huang, and Heng Tao Shen, <a href="http://dx.doi.org/10.1145/3077136.3080672">Unifying Multi-Source Social Media Data for Personalized Travel Route Planning</a>, <i>In Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)</i>, August 7-11, 2017, Tokyo, Japan.</li>
 <li>Gang Hu, Jie Shao, Dongxiang Zhang, Yang Yang, and Heng Tao Shen, <a href="http://dx.doi.org/10.1109/ICDE.2017.47">Preserving-Ignoring Transformation based Index for Approximate k Nearest Neighbor Search</a>, <i>In Proceedings of the 33rd IEEE International Conference on Data Engineering (ICDE)</i>, April 19-22, 2017, San Diego, CA, USA.</li>
